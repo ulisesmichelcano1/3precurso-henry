@@ -1,2 +1,1 @@
-# 3precurso-henry
-este es un repositorio de prueba de precurso hnery
+esta es una prueba de repositorio para clonar desde github a escritorio
